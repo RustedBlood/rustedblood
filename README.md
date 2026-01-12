@@ -1,4 +1,4 @@
-# 👨‍💻 Артём — Бэкенд разработчик | Разработчик ПО
+# 👨‍💻 Бэкенд разработчик | Разработчик ПО |
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -56,4 +56,4 @@
 ---
 
 
-> «Система знает, что ты здесь.»
+> «Close your eyes and make a wish»
